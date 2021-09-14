@@ -1,4 +1,4 @@
-# Dino_Chrome-Pygame-
+# Dino_Chrome
 Dino Chrome Game in Python(Pygame library)
 <h3>Installaion</h3>
 <ul>
